@@ -1,10 +1,10 @@
-# 100-year Geoelectric Hazard Analysis for the United States
+# 100-year Geoelectric Hazard Analysis for the U.S. High-Voltage Power Grid
 
 Authors: G. M. Lucas, J. J. Love, A. Kelbert, P. A. Bedrosian, E. J. Rigler
 
 Code Author: Greg Lucas (greg.lucas@lasp.colorado.edu)
 
-## DOI: XXX
+## doi:[10.1029/2019SW002329](https://doi.org/10.1029/2019SW002329)
 
 This repository contains the code used to produce the results in the paper.
 
